@@ -10,9 +10,6 @@
 
 - ✅ Accurate hash generation using JOAAT
 - 🚗 Supports any vehicle/model name
-- 🎨 Optional color output (via `colorama`)
-- 📝 Supports single or multiple inputs
-- 💾 Optional log file output
 - 🧠 Clear and simple code for learning or extension
 
 ---
@@ -20,8 +17,7 @@
 ## 📦 Requirements | المتطلبات
 
 - Python 3.6+
-- (Optional) [`colorama`](https://pypi.org/project/colorama/) for colorful terminal output:
-
+  
 ```bash
 pip install colorama
 

@@ -18,6 +18,13 @@
 
 - Python 3.6+
   
+## 🖥️ How to Run the Project | طريقة تشغيل المشروع
+
+### 1️⃣ Clone or download this repo | انسخ أو حمّل المشروع:
+
 ```bash
-pip install colorama
+git clone https://github.com/Abdullah-ZSh/fivem-hash-generator.git
+cd fivem-hash-generator
+
+python fivem-hash-generator.py
 
